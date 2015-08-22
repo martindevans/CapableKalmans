@@ -1,0 +1,8 @@
+_ReSharper.*
+*.suo
+
+/Console/bin
+/Console/obj
+
+/CapableKalmans/bin
+/CapableKalmans/obj
